@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tabea/CLionProjects/AdventOfCode2018/Manhattan distance/main.cpp
+iostream
+-
+vector
+-
+string
+-
+sstream
+-
+algorithm
+-
+map
+-
+fstream
+-
+
